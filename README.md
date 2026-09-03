@@ -1,7 +1,14 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <img src="assets/logo.png" width="220" alt="A corgi, head tilted, holding a rubber duck in its mouth, entirely unbothered">
+  </picture>
+</p>
+
 <h1 align="center">gu-ask-real</h1>
 
 <p align="center">
-  <em>The sound a person makes when what came back is not what they asked for.</em>
+  <em>You asked for the ball.</em>
 </p>
 
 <p align="center">
@@ -18,7 +25,8 @@ the same function, the fix that quietly undoes the last fix, the confident "done
 that was never run. By the time you notice, you are not annoyed at one edit — you have lost
 track of what is even true in the working tree.
 
-Then you say it. *Wait — what are you doing?*
+Then you say it. *Wait — what are you doing?* — the sound a person makes when what came back
+is not what they asked for.
 
 And the agent apologises for two paragraphs and rewrites everything, which is worse.
 
