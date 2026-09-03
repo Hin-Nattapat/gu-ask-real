@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/skills-1-111111?style=flat-square" alt="1 skill">
-  <img src="https://img.shields.io/badge/install-npx%20skills-111111?style=flat-square" alt="npx skills">
-  <img src="https://img.shields.io/badge/license-MIT-111111?style=flat-square" alt="MIT">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHin-Nattapat%2Fgu-ask-real%2Fmain%2F.claude-plugin%2Fplugin.json&query=%24.version&prefix=v&label=plugin&color=6f42c1&style=flat&labelColor=555" alt="plugin version">
+  <img src="https://img.shields.io/badge/license-MIT-cfc493?style=flat&labelColor=555" alt="MIT">
+  <img src="https://img.shields.io/badge/always--on-207%20tokens-2b2b2b?style=flat&labelColor=555" alt="207 tokens always-on">
+  <img src="https://img.shields.io/badge/agents-Claude%20Code%20%C2%B7%20Codex%20%C2%B7%20Cursor%20%C2%B7%20opencode-d4a24a?style=flat&labelColor=555" alt="Claude Code, Codex, Cursor, opencode">
+  <img src="https://img.shields.io/badge/apologies-0-e0a33e?style=flat&labelColor=555" alt="zero apologies">
 </p>
 
 ---

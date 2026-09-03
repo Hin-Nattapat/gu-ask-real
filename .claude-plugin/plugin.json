@@ -1,6 +1,8 @@
 {
   "name": "gu-ask-real",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stops the session when the work has gone off the rails, shows where the last good point is, and never apologises",
-  "author": { "name": "Hin-Nattapat" }
+  "author": {
+    "name": "Hin-Nattapat"
+  }
 }
