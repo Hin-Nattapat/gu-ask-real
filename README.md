@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-    <img src="assets/logo.png" width="220" alt="A corgi, head tilted, holding a rubber duck in its mouth, entirely unbothered">
-  </picture>
+  <img src="assets/logo.png" width="220" alt="A corgi, head tilted, holding a rubber duck in its mouth, entirely unbothered">
 </p>
 
 <h1 align="center">gu-ask-real</h1>
